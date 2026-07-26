@@ -1,23 +1,5 @@
 [
-  {
-    "name": "vite",
-    "owner": "vitejs",
-    "description": "Next generation frontend tooling",
-    "url": "https://github.com/vitejs/vite",
-    "starredAt": "2026-07-24"
-  },
-  {
-    "name": "tailwindcss",
-    "owner": "tailwindlabs",
-    "description": "A utility-first CSS framework",
-    "url": "https://github.com/tailwindlabs/tailwindcss",
-    "starredAt": "2026-07-21"
-  },
-  {
-    "name": "svelte",
-    "owner": "sveltejs",
-    "description": "Cybernetically enhanced web apps",
-    "url": "https://github.com/sveltejs/svelte",
-    "starredAt": "2026-07-18"
-  }
+  { "name": "octocat/Hello-World", "starred": "2024-01-15" },
+  { "name": "github/docs", "starred": "2024-02-02" },
+  { "name": "octo-org/octo-repo", "starred": "2024-03-21" }
 ]
