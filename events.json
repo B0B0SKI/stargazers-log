@@ -1,0 +1,23 @@
+[
+  {
+    "name": "vite",
+    "owner": "vitejs",
+    "description": "Next generation frontend tooling",
+    "url": "https://github.com/vitejs/vite",
+    "starredAt": "2026-07-24"
+  },
+  {
+    "name": "tailwindcss",
+    "owner": "tailwindlabs",
+    "description": "A utility-first CSS framework",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "starredAt": "2026-07-21"
+  },
+  {
+    "name": "svelte",
+    "owner": "sveltejs",
+    "description": "Cybernetically enhanced web apps",
+    "url": "https://github.com/sveltejs/svelte",
+    "starredAt": "2026-07-18"
+  }
+]
